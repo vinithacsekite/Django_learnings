@@ -1,0 +1,29 @@
+/* styles.css */
+
+body {
+    /* background: url('https://img.freepik.com/free-photo/office-table-with-cup-coffee-keyboard-notepad_1220-4616.jpg?w=2000') no-repeat center center fixed; */
+    background: url('https://c1.wallpaperflare.com/preview/427/745/192/notebook-natural-laptop-macbook.jpg') no-repeat center center fixed;
+    background-size: cover;
+
+}
+
+.container {
+    margin-top: 150px; /* Adjust the margin as needed */
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    width: 60%;
+    margin-left: 100px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    width: 100%;
+}
+.loginbtn{
+    width: 10%;
+}
